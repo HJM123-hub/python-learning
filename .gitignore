@@ -1,0 +1,5 @@
+miniconda3/
+Git/
+__pycache__/
+*.pyc
+.python-version
